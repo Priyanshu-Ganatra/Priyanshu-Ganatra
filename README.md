@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on DSA & Web development<br>👯 I’m looking to collaborate on DSA & Web development<br>🤝 I’m looking for help with DSA & Web development<br>🌱 I’m currently learning DSA & Web development<br>💬 Ask me about the same<br>⚡ Fun fact - I'm optimistic and a good leader
+I'm a student & a Full-stack web developer currently in 6th semester of my bachelor's, currently building some cool projects and sharpening my problem-solving skills. I aim to become a software engineer (SWE/SDE).
 
 
 ## 🌐 Socials:
