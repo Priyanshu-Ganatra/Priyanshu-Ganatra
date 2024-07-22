@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a student & a Full-stack web developer currently in 7th semester of my bachelor's, currently building some cool projects and sharpening my problem-solving skills. I aim to become a software engineer (SWE/SDE).
+I'm a student & a Full-stack web developer currently in 7th semester of my bachelor's, currently building some cool projects with state of the art technologies and sharpening my problem-solving skills. I aim to become a software engineer (SWE/SDE).
 
 
 ## 🌐 Socials:
